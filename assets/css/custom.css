@@ -1,0 +1,13 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+.index-page{
+    height: 100%;
+}
+.login-page {
+    height: 100%;
+    display: none
+}
